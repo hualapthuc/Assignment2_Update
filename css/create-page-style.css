@@ -1,0 +1,23 @@
+.create-interview-container {
+    margin-top: 50px;
+}
+
+.title-content {
+    padding: 30px 0;
+    border-bottom: 1px solid darkgray;
+}
+
+.main-content {
+    padding: 30px 0;
+}
+
+.name-poll-field {
+    border-bottom: 1px solid darkgrey;
+    padding-bottom: 20px;
+}
+.question-item-field {
+    padding-top: 10px;
+    width: 80%;
+    margin-left: 20%;
+    border-bottom: 1px solid darkgray;
+}
